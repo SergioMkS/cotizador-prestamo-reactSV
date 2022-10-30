@@ -5,6 +5,7 @@ import {formatearDinero, calcularTotalPagar } from './helpers';
 
 function App() {
 
+  
   //1ro= variable 2do funcionDeVr
   const [cantidad, setCantidad] = useState(10000);
   const [meses, setMeses] = useState(6);
